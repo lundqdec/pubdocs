@@ -1,7 +1,7 @@
 ## GPT-SW3: The First Large Generative Language Model for the Nordic Languages
 by Magnus Sahlgren
 Head of Research, NLU | AI Sweden
-[![GPT-SW3](https://www.youtube.com/embed/L5cuqm6rOqE?si=8GYyb59B9x8_FqGc)](https://www.youtube.com/embed/L5cuqm6rOqE?si=8GYyb59B9x8_FqGc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L5cuqm6rOqE?si=8GYyb59B9x8_FqGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Notes
 Has Discord, took data from the pile, diva, flashback etc. Ended up with 1,2 TB of quality data.
@@ -15,7 +15,7 @@ The LLM is just pre-trained at the moment, it need fine tuning to be able to wor
 ## Should We Teach Machine Learning Systems?
 by Jussi Karlgren
 Docent in Language Technology | Helsinki University
-[![TeachMachines](https://www.youtube.com/embed/Ilj2p_eK6AY?si=JD3pqVqBgULXGrdS)](https://www.youtube.com/embed/Ilj2p_eK6AY?si=JD3pqVqBgULXGrdS)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ilj2p_eK6AY?si=JD3pqVqBgULXGrdS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Notes
 Text "frees author and audience from time and space". Kids are exposed to 100k to 1M words per month, reading is adding 50% more. Enter knowledge graphs? Contextual anchoring. Represent knowledge in structures. Introduce learning models.
@@ -28,7 +28,7 @@ Machines learn in a to common and simple way. We do not teach machines to learn 
 ## Modelling Ecosystems with Deep Reinforcement Learning
 by Claes Strannegård
 Associate Professor | University of Gothenburg
-[![Ecotwin](https://www.youtube.com/embed/NA3kTcMA4zE?si=HN1VSiix49CRIscw)](https://www.youtube.com/embed/NA3kTcMA4zE?si=HN1VSiix49CRIscw)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NA3kTcMA4zE?si=HN1VSiix49CRIscw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Notes
 Many ecosys models: have no terrain, have no reinforcement learning. Versatility, no rescue robots that can climb any mountain. Fruit flies analogy, can survive everywhere. Unity asset stores for animals. Deep reinforcement, award model. What if... hunting, sea level, build roads. Perlin noise (check-up). Ecotwin 2.0 geocode interface and drag and drop animals.
@@ -41,7 +41,7 @@ The concept of an Ecotwin. What-if scenarious. Was unfortunately not tested prac
 ## P-Tuning: A Parameter Efficient Tuning to Boost LLM Performance
 by Zenodia Charpy
 Senior Data Scientist | NVIDIA
-[![Ptuning](https://www.youtube.com/embed/nGSSv7h_UV4?si=Pa0YIOgAWPUFtiM6)](https://www.youtube.com/embed/nGSSv7h_UV4?si=Pa0YIOgAWPUFtiM6)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nGSSv7h_UV4?si=Pa0YIOgAWPUFtiM6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Notes
 P-tuning or prompt-tuning is an efficient way to come up with virtual prompts and inference the model. This was done in Swedish so a translation service was used.
@@ -54,7 +54,7 @@ P-tuning is a way for a LLM to "read between the lines", i.e. getting smarter.
 ## Synthetic Data for Computer Vision Problems, When Real Annotation Is Too Expensive
 by Abgeiba Isunza Navarro
 Machine Learning Engineer | Modulai
-[![Synthetic](https://www.youtube.com/embed/AtPvwBHjAF0?si=F-xqgu33d03AUGdY)](https://www.youtube.com/embed/AtPvwBHjAF0?si=F-xqgu33d03AUGdY)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AtPvwBHjAF0?si=F-xqgu33d03AUGdY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Notes
 CVision, SYNTHIA - City images
@@ -76,7 +76,7 @@ It is like a reverse annotation, you create the image from the annotation (or pr
 ## Teaching Neural Networks a Sense of Geometry
 by Jens Agerberg
 ML Researcher, Data Scientist | KTH, Ericsson
-[![Geometry](https://www.youtube.com/embed/TxZnJe2aaFo?si=5_TCB1pAqd24efFC)](https://www.youtube.com/embed/TxZnJe2aaFo?si=5_TCB1pAqd24efFC)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TxZnJe2aaFo?si=5_TCB1pAqd24efFC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Notes
 Recognizing geometry is typical human, but not for animals.
@@ -90,7 +90,7 @@ Use cases
 ## Federated Machine Learning: A Scalable, Privacy-Preserving Approach Ready for Production Environments
 by Salman Toor
 CTO | Scaleout Systems
-[![FedML](https://www.youtube.com/embed/W1C2QsGnPk4?si=V5SntQD9fCZwjUSG)](https://www.youtube.com/embed/W1C2QsGnPk4?si=V5SntQD9fCZwjUSG)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W1C2QsGnPk4?si=V5SntQD9fCZwjUSG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Notes
 "Bring the data to the training and not the training to the data".
@@ -103,7 +103,7 @@ Used for high privacy use cases where data needs to stay on-premise on multi-sit
 ## Clean Architecture: How to Structure Your ML Projects to Reduce Technical Debt
 by Laszlo Sragner
 Founder | Hypergolic
-[![Clean](https://www.youtube.com/embed/IXML9CVDszo?si=7eP0hTDaUlYv4IzZ)](https://www.youtube.com/embed/IXML9CVDszo?si=7eP0hTDaUlYv4IzZ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IXML9CVDszo?si=7eP0hTDaUlYv4IzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Notes
 laszlo.substack.com

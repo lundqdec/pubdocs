@@ -2,9 +2,11 @@
 by Magnus Sahlgren
 Head of Research, NLU | AI Sweden
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L5cuqm6rOqE?si=8GYyb59B9x8_FqGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Notes
 Has Discord, took data from the pile, diva, flashback etc. Ended up with 1,2 TB of quality data.
 Used the Berzelius Superpod (Nvidia).
+
 ### Key takeaways
 The LLM is just pre-trained at the moment, it need fine tuning to be able to work as a InstructGPT, however it will soon be available. Available at huggingface as model.
 
@@ -14,6 +16,7 @@ The LLM is just pre-trained at the moment, it need fine tuning to be able to wor
 by Jussi Karlgren
 Docent in Language Technology | Helsinki University
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ilj2p_eK6AY?si=JD3pqVqBgULXGrdS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Notes
 Text "frees author and audience from time and space". Kids are exposed to 100k to 1M words per month, reading is adding 50% more. Enter knowledge graphs? Contextual anchoring. Represent knowledge in structures. Introduce learning models.
 
@@ -26,6 +29,7 @@ Machines learn in a to common and simple way. We do not teach machines to learn 
 by Claes Strannegård
 Associate Professor | University of Gothenburg
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NA3kTcMA4zE?si=HN1VSiix49CRIscw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Notes
 Many ecosys models: have no terrain, have no reinforcement learning. Versatility, no rescue robots that can climb any mountain. Fruit flies analogy, can survive everywhere. Unity asset stores for animals. Deep reinforcement, award model. What if... hunting, sea level, build roads. Perlin noise (check-up). Ecotwin 2.0 geocode interface and drag and drop animals.
 
@@ -38,6 +42,7 @@ The concept of an Ecotwin. What-if scenarious. Was unfortunately not tested prac
 by Zenodia Charpy
 Senior Data Scientist | NVIDIA
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nGSSv7h_UV4?si=Pa0YIOgAWPUFtiM6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Notes
 P-tuning or prompt-tuning is an efficient way to come up with virtual prompts and inference the model. This was done in Swedish so a translation service was used.
 
@@ -50,6 +55,7 @@ P-tuning is a way for a LLM to "read between the lines", i.e. getting smarter.
 by Abgeiba Isunza Navarro
 Machine Learning Engineer | Modulai
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AtPvwBHjAF0?si=F-xqgu33d03AUGdY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Notes
 CVision, SYNTHIA - City images
 Unity Perception to create synthetic data
@@ -98,13 +104,14 @@ Used for high privacy use cases where data needs to stay on-premise on multi-sit
 by Laszlo Sragner
 Founder | Hypergolic
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IXML9CVDszo?si=7eP0hTDaUlYv4IzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-### Notes
 
+### Notes
 laszlo.substack.com
 Tech-debt vs tech-mess, there is a difference
 - Adapter pattern
 - Factory pattern
 - Strategy pattern
+
 ### Key takeaways
 There has been a gap between classical development architecture and ML-project. This talk was to address this gap and increase knowledge in the ML-community.
 
